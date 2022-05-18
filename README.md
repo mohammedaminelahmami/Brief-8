@@ -22,6 +22,7 @@ DB_name:
 
   wordpress
 DB_username:
+
 wordpressBrief8
 
      root   
