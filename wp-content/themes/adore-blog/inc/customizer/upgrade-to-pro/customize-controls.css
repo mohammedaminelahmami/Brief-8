@@ -1,0 +1,24 @@
+#customize-controls .control-section-adore-blog .accordion-section-title:hover,
+#customize-controls .control-section-adore-blog .accordion-section-title:focus {
+	background-color: #000;
+	color: #fff;
+}
+
+.control-section-adore-blog .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #4ad458;
+	border-color: #4ad458;
+	color: #fff;
+}
+
+.rtl .control-section-adore-blog .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-adore-blog h3.accordion-section-title {
+    background-color: #000;
+    color: #fff;
+}
