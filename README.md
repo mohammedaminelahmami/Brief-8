@@ -25,6 +25,9 @@ DB_username:
 
      wordpressBrief8
 
+
+
+
      root   
 DB_password:
 
@@ -33,7 +36,7 @@ step 5. Setup username and password of Wordpress admin dashboard
 
 username:
 
-    admin
+        admin
 password:
 
-  amine0029+0
+      amine0029+0
