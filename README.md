@@ -20,11 +20,11 @@ DB_host:
     localhost
 DB_name:
 
-    root
+    wordpressBrief8
     
 DB_username:
 
-         wordpressBrief8
+    root
  
 DB_password:
 
